@@ -22,3 +22,4 @@ map <- leaflet() |>
   );map
 
 saveWidget(map, file = "index.html")
+ 

@@ -7,16 +7,19 @@ channels:
   - default
 
 dependencies:
-  - bash
-  - python
-  - ipykernel
-  - jupyter
-  - pandas
-  - geopandas
-  - shapely
-  - pykml
-  - r-tidyverse
-  - r-sf
-  - r-leaflet
-  - r-leaflet.extras
-  - r-htmlwidgets
+  - bash=5.2.21
+  - make=4.4.1
+  - python=3.13.0
+  - ipykernel=6.29.5
+  - jupyter=1.1.1
+  - pandas=2.2.3
+  - geopandas=1.0.1
+  - gpxpy=1.6.2
+  - shapely=2.0.6
+  - pykml=0.2.0
+  - r-base=4.4.1
+  - r-tidyverse=2.0.0
+  - r-sf=1.0_18
+  - r-leaflet=2.2.2
+  - r-leaflet.extras=2.0.1
+  - r-htmlwidgets=1.6.4
