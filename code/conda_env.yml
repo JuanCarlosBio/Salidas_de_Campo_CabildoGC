@@ -1,0 +1,22 @@
+name: track_env
+
+channels:
+  - conda-forge
+  - anaconda
+  - r
+  - default
+
+dependencies:
+  - bash
+  - python
+  - ipykernel
+  - jupyter
+  - pandas
+  - geopandas
+  - shapely
+  - pykml
+  - r-tidyverse
+  - r-sf
+  - r-leaflet
+  - r-leaflet.extras
+  - r-htmlwidgets
